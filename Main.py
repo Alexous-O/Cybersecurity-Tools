@@ -18,10 +18,11 @@ import VulnScanner
 import Cryptage
 import Analyse
 
-
 sys.path.append('__init__')
-import get_ip as ad
 import file_mg as file
+import get_ip as ad
+
+
 
 sc = nmap.PortScanner()
 
