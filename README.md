@@ -18,7 +18,7 @@ This is a code that was created as part of my cybersecurity training to learn an
 
 ![ScanNetwork](https://github.com/user-attachments/assets/c3d98d71-0e3f-4618-9ba7-05ae8a348c3e)
 
-    In this case, you need to enter an IP address, for example that of your router, and there you will find the different open ports.
+####In this case, you need to enter an IP address, for example that of your router, and there you will find the different open ports.
 
 ## Use
 
