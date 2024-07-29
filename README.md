@@ -28,11 +28,8 @@ This is a code that was created as part of my cybersecurity training to learn an
     ```
     
 2. Open the project then start them :
-   '''
-   ./Main.py
-   '''
 
-4. Then launch the project
+3. Then launch the project
    - It's up to you to have fun
 
 ## Author 👨‍💻
