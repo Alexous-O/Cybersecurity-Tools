@@ -1,6 +1,6 @@
 # Cybersecurity-Tools
 
-This project works on Windows and Linux, except the "Analysis" part where part only works on Linux
+This project works on Windows and Linux, except the "Analysis" part where part only works on Linux 
 
 ## Project Description 
 
